@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+.next/
+out/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+.env*.local
+
+# Data
+datasets/*.jsonl
+models/
+*.ckpt
+*.pt
+*.pth
+
+# Database
+*.db
+*.sqlite
+
+# OS
+.DS_Store
+Thumbs.db
+README.md
+docker-compose.yml
+frontend/components
+frontend/lib
+frontend/next.config.js
+frontend/package.json
+frontend/postcss.config.js
+frontend/tailwind.config.js
+frontend/Dockerfile
+backend/Dockerfile
