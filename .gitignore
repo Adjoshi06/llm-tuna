@@ -50,10 +50,5 @@ Thumbs.db
 README.md
 docker-compose.yml
 
-frontend/lib
-frontend/next.config.js
-frontend/package.json
-frontend/postcss.config.js
-frontend/tailwind.config.js
 frontend/Dockerfile
 backend/Dockerfile
