@@ -47,8 +47,7 @@ models/
 # OS
 .DS_Store
 Thumbs.db
-README.md
+
 docker-compose.yml
 
-frontend/Dockerfile
-backend/Dockerfile
+
