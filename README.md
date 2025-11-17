@@ -1,4 +1,4 @@
-# LLM Fine-tuning & Evaluation Platform
+# LLM Tuna
 
 A web platform that makes fine-tuning open-source LLMs accessible to developers without ML expertise. This MVP focuses on simplicity, clean code, and the core value proposition: easy comparison between base and fine-tuned models.
 
