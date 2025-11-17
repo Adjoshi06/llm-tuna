@@ -50,17 +50,6 @@ Enable users to:
 - **PEFT (LoRA)** - Parameter-efficient fine-tuning
 - **PyTorch** - Deep learning framework
 
-### Frontend
-- **Next.js 14** - React framework with App Router
-- **TypeScript** - Type-safe JavaScript
-- **Tailwind CSS** - Utility-first CSS framework
-- **Recharts** - Data visualization library
-- **Axios** - HTTP client
-
-### Infrastructure
-- **Docker & Docker Compose** - Containerization and orchestration
-- **Local filesystem** - File storage (S3-ready for production)
-
 ## 📁 Project Structure
 
 ```
