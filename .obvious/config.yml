@@ -1,0 +1,7 @@
+# obvious repo policy — auto-detected from GitHub repo settings on 2026-09-24
+repository: Adjoshi06/llm-tuna
+default_branch: master
+merge:
+  method: squash
+  require_human: true
+  # GitHub settings: merge commit / squash / rebase all allowed; squash chosen as default.
